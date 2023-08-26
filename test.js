@@ -105,7 +105,6 @@ window.chatButtonId = '5730c000000CwDu'
 window.cookieConsentDomains = ["percipio.front.master.squads-dev.com","use1-stage-skillsoft-engtest.stage.percipio.com"]
 window.createTicket = 'https://skillsoft.my.site.com/customer/WebToCasePercipio?product=All'
 window.cspNonce = '72d3e56a1c200634cebc0536e8e40b54'
-const ALGOLIA_API_KEY = "4150b86fb31421d29907e4454c7dad6a";
 window.customCertificateDefaultLogo = 'https://cdn2.percipio.com/public/us/custom-content/f54dc5a9-5b6c-4ab1-9684-9e3fc7ef8993/public/images/saved/bf3edc91-7676-41ce-9e60-684704fbc351/skillsoft-navy.png'
 window.customizationDefaultHeaderLogoUrl = 'https://cdn2-percipio-qastage.global.ssl.fastly.net/public/c/public/images/skillsoft-logo.png'
 window.customizationDefaultLoginBackgroundUrl = 'https://cdn2.percipio.com/public/c/public/images/login-bg-2.jpg'
