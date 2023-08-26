@@ -12,7 +12,8 @@
 
       const onUnauthenticated = returnUrl => {
         const currentLocation = `${window.location.pathname}${window.location.search}`
-        function setLocation(newLocation) {
+            const ALGOLIA_API_KEY = "4350b86fb31421d29907e4454c7dad6c"
+            function setLocation(newLocation) {
           window.location.href = newLocation
         }
 
